@@ -12,3 +12,5 @@
 2. 搭建配置Hadoop集群以及Kafka-Zookeeper集群
 3. 基于Flink流式计算框架实现URL的管理与分发
 4. 对接负责爬虫同学进行联调测试
+### 郭子毅
+通过python的urllib库和lxml库编写单机爬虫
